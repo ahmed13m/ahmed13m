@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-  <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+  <!-- <img src="https://raw.githubusercontent.com/ahmed13m/ahmed13m/master/img/github.gif" width=100>
   <br><br> -->
     I'm an aspiring software developer💻. Interested in working on FrontEnd/Fullstack and Currently learning about Databases and Frameworks. Occasionally I do participate in Hackathons💡 and I have a love/hate relationship with Programming. 😐
   </samp>
@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 
 
-<!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=coderjojo/coderjojo) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ahmed13m/ahmed13m)
 
-<!-- ![ViewCount](https://views.whatilearened.today/views/github/coderjojo/views.svg) -->
+![ViewCount](https://views.whatilearened.today/views/github/ahmed13m/views.svg) 
