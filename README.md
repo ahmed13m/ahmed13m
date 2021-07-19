@@ -40,8 +40,4 @@ Here are some ideas to get you started:
 </p>
 <br/><br/>
 
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ahmed13m/ahmed13m)
-
-![ViewCount](https://views.whatilearened.today/views/github/ahmed13m/views.svg) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ahmed13m/ahmed13m) ![ViewCount](https://views.whatilearened.today/views/github/ahmed13m/views.svg) 
