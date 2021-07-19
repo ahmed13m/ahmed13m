@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>
   <!-- <img src="https://raw.githubusercontent.com/ahmed13m/ahmed13m/master/img/github.gif" width=100>
   <br><br> -->
-    I'm an aspiring software developer💻. Interested in working on FrontEnd/Fullstack and Currently learning about Databases and Frameworks. Occasionally I do participate in Hackathons💡 and I have a love/hate relationship with Programming. 😐
+    An aspiring software developer💻. Interested in working on FrontEnd/Fullstack and Currently learning about Databases and Frameworks. Occasionally I do participate in Hackathons💡 and I have a love/hate relationship with Programming. 😐
   </samp>
 </p>
 
