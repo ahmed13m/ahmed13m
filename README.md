@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 <p align="center">
 <!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
 </p>
-<br/><br/>
+<br/><br/><br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ahmed13m/ahmed13m) ![ViewCount](https://views.whatilearened.today/views/github/ahmed13m/views.svg) 
