@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <a href="#">
   <img align="left" alt="Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/museab-a-7795a216a/">
   <img align="left" alt="Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 <p align="center">
